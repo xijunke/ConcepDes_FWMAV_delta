@@ -34,6 +34,32 @@
 
 ![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/%E8%BD%AF%E4%BB%B6%E7%95%8C%E9%9D%A2-ConcepDes_FMAV_delta.bmp)
 
+# BMP format pictures to display th software GUI of ConcepDes_FMAV
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m1-1.bmp)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m1-2.jpg)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m1-3.jpg)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m1-4.bmp)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m2-1.bmp)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m2-2.bmp)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m2-3.bmp)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m3-1.bmp)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/m4-1.bmp)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/ConcepDes_FMAV_delta_0.bmp)
+
+![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_GUI/ConcepDes_FMAV_delta_1.bmp)
+
+# PNG format pictures with error characters:
+
 ![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_png_tif_pdf_eps_bmp/png/%E8%A7%84%E5%AE%9A%E7%9A%84%E8%B0%90%E6%B3%A2%E6%8B%8D%E6%89%93%E8%A7%92%E5%92%8C%E6%89%AD%E8%BD%AC%E8%A7%92_%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E6%94%BB%E8%A7%92alpha_0%E4%B8%8B%E7%9A%84%E9%98%BB%E5%B0%BC%E5%8A%9B%E9%9A%8F%E6%97%A0%E9%87%8F%E7%BA%B2%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%96.png)
 
 ![ConcepDes_FMAV_delta](https://github.com/xijunke/ConcepDes_FMAV_delta/blob/master/pic_png_tif_pdf_eps_bmp/png/%E8%A7%84%E5%AE%9A%E7%9A%84%E8%B0%90%E6%B3%A2%E6%8B%8D%E6%89%93%E8%A7%92%E5%92%8C%E6%89%AD%E8%BD%AC%E8%A7%92_%E5%9C%A8%E4%B8%8D%E5%90%8C%E7%9A%84%E6%94%BB%E8%A7%92alpha_0%E4%B8%8B%E7%9A%84%E9%98%BB%E5%B0%BC%E5%8A%9B%E9%9A%8F%E6%97%A0%E9%87%8F%E7%BA%B2%E6%97%B6%E9%97%B4%E7%9A%84%E5%8F%98%E5%8C%962.png)
